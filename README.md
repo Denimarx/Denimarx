@@ -7,7 +7,7 @@
 Creo que el feedback y el autoconocimiento en un equipo es necesario para la culminación de excelentes proyectos, por eso busco un ambiente ágil y colaborativo.✨ 
 
 
-<img align="right" src="https://user-images.githubusercontent.com/104202005/199605969-24f7bb7b-570a-4f05-8562-18c55164f243.gif" width="500px" alt="img" align="right" style="max-width: 30%;">
+<img align="right" src="https://user-images.githubusercontent.com/104202005/199605969-24f7bb7b-570a-4f05-8562-18c55164f243.gif" width="300px" alt="img" align="right" style="max-width: 30%;">
 
 💛 Aprendí desarrollo web en Laboratoria
 
