@@ -1,5 +1,4 @@
-### Hi there 👋
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=falso&vCenter=falso&width=435&lines=Hola+%F0%9F%91%8B+Soy+Denis" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F733E9&background=23E7FF00&center=verdadero&vCenter=falso&width=435&lines=Hola+%F0%9F%91%8B+Soy+Denis%2C+gracias+por+visitar+mi+perfil+de+Github" alt="Typing SVG" /></a>
 
 ![MyGifDeni](https://user-images.githubusercontent.com/104202005/199548058-b26bc727-27d5-45e6-8538-e840d95aa88a.gif)
 
