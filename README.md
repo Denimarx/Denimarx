@@ -7,7 +7,7 @@
 Creo que el feedback y el autoconocimiento en un equipo es necesario para la culminación de excelentes proyectos, por eso busco un ambiente ágil y colaborativo.✨ 
 
 
-💛 Aprendí a desarrollo web en Laboratoria
+💛 Aprendí desarrollo web en Laboratoria
 
 ⚛️ Actualmente estoy aprendiendo React
 
