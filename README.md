@@ -20,6 +20,18 @@
 👩🏻‍💻  Proyecto en el que trabajo: <strong>Burger Queen</strong> 🌱
 
 👯 Busco colaborar en una empresa <strong>innovadora</strong>
+<br>
+<br>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F529F7&width=435&lines=Redes+y+Contacto%3A" alt="Typing SVG" /></a><br>
+
+<a href="mailto:mardeni2022@gmail.com"><img src="https://github.com/deut-erium/deut-erium/raw/master/assets/gmail.svg" width="25px" alt="mail" style="max-width: 100%;"> Mi correo </a>
+
+
+<a href="https://www.linkedin.com/in/denis-romero/" rel="nofollow"><img src="https://github.com/deut-erium/deut-erium/raw/master/assets/linkedin.svg" width="25px" alt="LinkedIn" style="max-width: 100%;"> Mi linkedIn </a>
+
+
+
 
 
 
