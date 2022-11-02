@@ -1,5 +1,5 @@
 ### Hi there 👋
-https://user-images.githubusercontent.com/104202005/199547120-62afae1e-2a07-4533-b4af-18643c2a223f.gif
+![MyGifDeni](https://user-images.githubusercontent.com/104202005/199548058-b26bc727-27d5-45e6-8538-e840d95aa88a.gif)
 
 <!--
 **Denimarx/Denimarx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
