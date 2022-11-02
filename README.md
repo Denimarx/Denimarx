@@ -4,7 +4,7 @@
 <img align="right" src="https://user-images.githubusercontent.com/104202005/199613663-9d2720fc-c2b0-410f-93c9-c5fd024855f8.gif" width="300px" alt="img" align="right" style="max-width: 30%;">
 
 <p dir="auto">
-✨Me encanta aprender diseñar y crear productos innovadores con la programación, <br>
+✨Me encanta aprender diseñar y crear productos innovadores, <br>
   por ello decidí convertirme en <strong>Frontend Developer</strong>, así pueso implementar <br>
   soluciones y nuevas experiencias en el mundo digital.Creo que el feedback<br>
   y el autoconocimiento en un equipo es necesario para la culminación <br>
