@@ -15,3 +15,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+💛 Aprendí a programar en Laboratoria
+
+⚛️ Actualmente estoy aprendiendo React
+
+👩🏻‍💻  Proyecto en el que trabajo: Burger Queen 🌱
+
+🎨 Profesora de Artes visuales
+
+👾 Fan de los videojuegos, en especial la saga "The legend of Zelda"
+
+⛸ Patinaje freeskate
+
