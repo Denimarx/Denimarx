@@ -2,11 +2,11 @@
 ![MyGifDeni](https://user-images.githubusercontent.com/104202005/199548058-b26bc727-27d5-45e6-8538-e840d95aa88a.gif)
 
 <p dir="auto">
-✨Me encanta aprender y crear productos innovadores con la programación, 
-  por ello decidí convertirme en Frontend Developer, así pueso implementar 
-  soluciones y nuevas experiencias en el mundo digital.Creo que el feedback
-  y el autoconocimiento en un equipo es necesario para la culminación 
-  de excelentes proyectos, por eso busco un ambiente ágil y colaborativo.✨ 
+✨Me encanta aprender y crear productos innovadores con la programación, <br>
+  por ello decidí convertirme en Frontend Developer, así pueso implementar <br>
+  soluciones y nuevas experiencias en el mundo digital.Creo que el feedback<br>
+  y el autoconocimiento en un equipo es necesario para la culminación <br>
+  de excelentes proyectos, por eso busco un ambiente ágil y colaborativo.✨<br> 
 </p>
 
 <img align="right" src="https://user-images.githubusercontent.com/104202005/199613663-9d2720fc-c2b0-410f-93c9-c5fd024855f8.gif" width="300px" alt="img" align="right" style="max-width: 30%;">
