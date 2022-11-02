@@ -6,8 +6,9 @@
 ✨Me encanta aprender y crear productos innovadores con la programación, por ello decidí convertirme en Frontend Developer, así poder implementar soluciones y nuevas experiencias en el mundo digital.
 Creo que el feedback y el autoconocimiento en un equipo es necesario para la culminación de excelentes proyectos, por eso busco un ambiente ágil y colaborativo.✨ 
 
-![Lenguajes y Herramientas (1)](https://user-images.githubusercontent.com/104202005/199605969-24f7bb7b-570a-4f05-8562-18c55164f243.gif)
 
+<img align="right" src="![Lenguajes y Herramientas (1)](https://user-images.githubusercontent.com/104202005/199605969-24f7bb7b-570a-4f05-8562-18c55164f243.gif)
+" width="500px" alt="Cueva del autoconocimiento, Ilustración hecha por mi" align="right" style="max-width: 100%;">
 
 💛 Aprendí desarrollo web en Laboratoria
 
