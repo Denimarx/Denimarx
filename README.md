@@ -5,20 +5,20 @@
 
 <p dir="auto">
 ✨Me encanta aprender y crear productos innovadores con la programación, <br>
-  por ello decidí convertirme en <strong>Frontend Developer<strong>, así pueso implementar <br>
+  por ello decidí convertirme en <strong>Frontend Developer</strong>, así pueso implementar <br>
   soluciones y nuevas experiencias en el mundo digital.Creo que el feedback<br>
   y el autoconocimiento en un equipo es necesario para la culminación <br>
   de excelentes proyectos, por eso busco un ambiente ágil y colaborativo.✨<br> 
 </p>
 
 
-💛 Aprendí desarrollo web en <strong>Laboratoria Perú<strong>
+💛 Aprendí desarrollo web en <strong>Laboratoria Perú</strong>
 
-⚛️ Actualmente estoy aprendiendo <strong>React<strong>
+⚛️ Actualmente estoy aprendiendo <strong>React</strong>
 
-👩🏻‍💻  Proyecto en el que trabajo: <strong>Burger Queen<strong> 🌱
+👩🏻‍💻  Proyecto en el que trabajo: <strong>Burger Queen</strong> 🌱
 
-👯 Busco colaborar en una empresa <strong>innovadora<strong>
+👯 Busco colaborar en una empresa <strong>innovadora</strong>
 
 
 
