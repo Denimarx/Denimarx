@@ -6,24 +6,14 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-💛 Aprendí a programar en Laboratoria
+💛 Aprendí a desarrollo web en Laboratoria
 
 ⚛️ Actualmente estoy aprendiendo React
 
 👩🏻‍💻  Proyecto en el que trabajo: Burger Queen 🌱
 
-🎨 Profesora de Artes visuales
+👯 Busco colaborar en una empresa innovadora
 
-👾 Fan de los videojuegos, en especial la saga "The legend of Zelda"
 
-⛸ Patinaje freeskate
+
 
